@@ -1,6 +1,6 @@
 // #7DaysOfCode - Desafio 7 - Funções
 
-alert("Calculadora do DevJunior");
+alert("Calculadora do Jurandi");
 const pergunta = prompt("Gostaria de fazer uma continha? `sim` ou `sair`?");
 const conta = [
   "soma",
