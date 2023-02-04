@@ -1,0 +1,17 @@
+body {
+    width: 940px;
+    margin: 20px auto;
+    background-color: #000000;
+    border: 2px solid rgba(255, 255, 0, 0.904);  
+}
+
+h1 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+    font-size:  24px;
+    color: rgba(255, 255, 0, 0.904);
+    font-weight: bold;
+}
