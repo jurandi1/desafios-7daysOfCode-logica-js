@@ -1,4 +1,4 @@
-// #7DaysOfCode - Dia 1 - Igualdade de valores
+// #7DaysOfCode - Desafio 1 - Operacoes Booleanas
 
 let numeroUm = 1
 let stringUm = '1'
