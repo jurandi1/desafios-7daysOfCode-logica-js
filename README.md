@@ -19,7 +19,7 @@
 
 <h2>Introdução</h2>
 
-O projeto consiste em 7 desafios de Lógica com Javascript desafiado pela instrutora [Rafaella Ballerini](https://github.com/rafaballerini) da [Alura](https://cursos.alura.com.br/formacao-programacao-v123948), criei algoritmos para resolver os problemas usando variáveis, condicionais e estruturas de loop. Utilizei pastas para separar cada desafio no código e abaixo você pode conferir cada um deles e seu funcionamento, reproduzi alguns vídeos mostrando eles em execução.  
+O projeto consiste em 7 desafios de Lógica com Javascript propostos pela instrutora [Rafaella Ballerini](https://github.com/rafaballerini) da [Alura](https://cursos.alura.com.br/formacao-programacao-v123948). Criei algoritmos para resolver os problemas usando variáveis, condicionais e estruturas de loop. Utilizei pastas para separar cada desafio no código e abaixo você pode conferir cada um deles e seu funcionamento, reproduzi alguns vídeos mostrando os projetos em execução.  
 
 <h2>Desafio 1</h2>
 
