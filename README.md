@@ -1,4 +1,4 @@
-![logo](https://user-images.githubusercontent.com/105133847/216786665-d771e31b-ae29-467f-ad9e-1b9f38ae9e8b.png)
+![logo](https://user-images.githubusercontent.com/105133847/216786665-d771e31b-ae29-467f-ad9e-1b9f38ae9e8b.png#vitrinedev)
 
 <h2 align="left">  #7DaysOfCode: Um mergulho em Lógica de Programação com JavaScript </h2>
 
